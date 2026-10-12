@@ -128,7 +128,7 @@ Then link them here using `![VELOOP Rewards preview](docs/screenshot-home.png)`.
 
 ## Live demo
 
-Add the deployed Vercel or Netlify URL after deployment.
+https://veloop-reward-omega.vercel.app/
 
 ## GitHub repository
 
@@ -136,4 +136,5 @@ Add your public repository URL after creating it.
 
 ## Author
 
-Add your name and contact/profile links before submission.
+Arnab Maity
+marnab.2005@gmail.com

@@ -71,12 +71,11 @@ veloop-rewards-redesign/
 │   ├── components/
 │   │   ├── BannerShell/
 │   │   ├── FeatureIllustration/
-│   │   └── banners/
-│   │       ├── ReferEarnBanner/
-│   │       ├── SwapCenterBanner/
-│   │       ├── BonusVEsBanner/
-│   │       ├── CaptchaTasksBanner/
-│   │       └── ExchangeCenterBanner/
+│   │   ├── ReferEarnBanner/
+│   │   ├── SwapCenterBanner/
+│   │   ├── BonusVEsBanner/
+│   │   ├── CaptchaTasksBanner/
+│   │   └── ExchangeCenterBanner/
 │   ├── hooks/
 │   ├── pages/
 │   ├── styles/
